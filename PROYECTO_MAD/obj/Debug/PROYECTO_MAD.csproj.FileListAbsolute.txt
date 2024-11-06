@@ -1,0 +1,27 @@
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Form1.resources
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.Cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Form1.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Editar.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.IniciarSesion.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Busqueda.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.DashBoard.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Favoritos.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Versiculos.resources
+C:\Users\PC\Desktop\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.HistorialBusquedas.resources
